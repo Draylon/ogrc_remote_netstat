@@ -25,12 +25,12 @@
 <hr> -->
 
 <p align="center">
-  <a href="#📌-about">About</a> &#xa0; | &#xa0; 
-  <a href="#✨-features">Features</a> &#xa0; | &#xa0;
-  <a href="#🚀-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#✅-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#🏁-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#📝-license">License</a> &#xa0; | &#xa0;
+  <a href="#-about">About</a> &#xa0; | &#xa0; 
+  <a href="#-features">Features</a> &#xa0; | &#xa0;
+  <a href="#-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/draylon" target="_blank">Author</a>
 </p>
 
