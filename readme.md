@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Netstat" />
-
-  &#xa0;
-
-  <!-- <a href="https://netstat.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Netstat</h1>
 
 <p align="center">
